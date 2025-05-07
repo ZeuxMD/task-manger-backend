@@ -33,7 +33,7 @@ This backend application is built using the following core technologies:
 1.  **Clone the repository:**
 
     ```bash
-    git clone github.com/ZeuxMD/task-manger-backend
+    git clone https://github.com/ZeuxMD/task-manger-backend.git
     cd task-manager-backend
     ```
 
